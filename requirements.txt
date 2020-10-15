@@ -1,2 +1,3 @@
-git+https://github.com/JustAnotherArchivist/snscrape.git@ffd9289edc5bab32e1e2314e7c04b4da9c933867 # snscrape from git as Twitter recently introduced breaking changes
+git+https://github.com/JustAnotherArchivist/snscrape.git@ffd9289edc5bab32e1e2314e7c04b4da9c933867
 stylecloud==0.5.1
+pandas==1.1.3
